@@ -1,0 +1,9 @@
+.title {
+	color: pink;
+}
+
+article {
+	padding: 0.1em;
+	margin: 0 auto;
+	max-width: 600px;
+}
